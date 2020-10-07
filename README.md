@@ -20,7 +20,7 @@ Additional File
 ```
   Image("p7")
   .resizable()
-  .frame(width: 400, height: 600, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+  .frame(width: 400, height: 600, alignment: .center)
   .cornerRadius(25)
   ```
   
