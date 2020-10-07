@@ -1,6 +1,9 @@
 # MarvelDateSwiftUI
 This project can be used for implementation of "Blind Date App UI" with help of SwiftUI
 
+# Concept 
+Swipe Card Concept for `Selection / Rejection`
+
 ## Marvel Actress
 ```
 (id: 0, name: "Natalie Portman", image: "p0", age: "35", offset: 0),
