@@ -15,3 +15,13 @@ This project can be used for implementation of "Blind Date App UI" with help of 
 (id: 9, name: "Cobie Smulders", image: "p9", age: "38", offset: 0),
 ```
 
+## Create Rounded-Rectangle Cards (Used In makeCall.SwiftUI)
+Additional File
+```
+  Image("p7")
+  .resizable()
+  .frame(width: 400, height: 600, alignment: /*@START_MENU_TOKEN@*/.center/*@END_MENU_TOKEN@*/)
+  .cornerRadius(25)
+  ```
+  
+  
